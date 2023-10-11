@@ -1,0 +1,23 @@
+{
+  "name": "Zenn_haruto8692",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hayatto9217/Zenn_haruto8692.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hayatto9217/Zenn_haruto8692/issues"
+  },
+  "homepage": "https://github.com/Hayatto9217/Zenn_haruto8692#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.147"
+  }
+}
