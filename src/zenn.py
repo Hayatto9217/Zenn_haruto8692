@@ -1,1 +1,0 @@
-print('Zenn channel created successfully!')
